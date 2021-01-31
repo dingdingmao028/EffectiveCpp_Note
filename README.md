@@ -12,7 +12,7 @@
 
 ✔[条款5：了解C++默认编写并调用哪些函数](https://blog.csdn.net/kangroger/article/details/41986049#t0)
 
-[条款6：若不想使用编译器自动生成的函数，就该明确拒绝](https://blog.csdn.net/kangroger/article/details/41986049#t0)
+[✔条款6：若不想使用编译器自动生成的函数，就该明确拒绝](https://blog.csdn.net/kangroger/article/details/41986049#t0)
 
 [条款7：为多态基类声明virtual析构函数](https://blog.csdn.net/kangroger/article/details/41986049#t0)
 
@@ -20,11 +20,11 @@
 
 [条款9：绝不在构造和析构过程中调用virtual函数](https://blog.csdn.net/kangroger/article/details/41986049#t0)
 
-[条款10：令operator=返回一个reference to *this](https://blog.csdn.net/kangroger/article/details/42433437#t0)
+✔[条款10：令operator=返回一个reference to *this](https://blog.csdn.net/kangroger/article/details/42433437#t0)
 
-[条款11：在operator=中实现“自我赋值”](https://blog.csdn.net/kangroger/article/details/42433437#t0)
+✔[条款11：在operator=中实现“自我赋值”](https://blog.csdn.net/kangroger/article/details/42433437#t0)
 
-[条款12：复制对象时勿忘其每一部分](https://blog.csdn.net/kangroger/article/details/42433437#t0)
+✔[条款12：复制对象时勿忘其每一部分](https://blog.csdn.net/kangroger/article/details/42433437#t0)
 
 [条款13：以对象管理资源](https://blog.csdn.net/kangroger/article/details/42526187#t0)
 
