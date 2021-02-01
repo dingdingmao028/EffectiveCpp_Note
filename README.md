@@ -26,15 +26,15 @@
 
 ✔[条款12：复制对象时勿忘其每一部分](https://blog.csdn.net/kangroger/article/details/42433437#t0)
 
-[条款13：以对象管理资源](https://blog.csdn.net/kangroger/article/details/42526187#t0)
+[✔条款13：以对象管理资源](https://blog.csdn.net/kangroger/article/details/42526187#t0)
 
-[条款14：在资源管理类中小心coping行为](https://blog.csdn.net/kangroger/article/details/42526187#t0)
+✔[条款14：在资源管理类中小心coping行为](https://blog.csdn.net/kangroger/article/details/42526187#t0)
 
-[条款15：在资源管理类中提供对原始资源的访问](https://blog.csdn.net/kangroger/article/details/42526187#t0)
+[✔条款15：在资源管理类中提供对原始资源的访问](https://blog.csdn.net/kangroger/article/details/42526187#t0)
 
-[条款16：成对使用new和delete时要采取相同形式](https://blog.csdn.net/kangroger/article/details/42717889#t0)
+[✔条款16：成对使用new和delete时要采取相同形式](https://blog.csdn.net/kangroger/article/details/42717889#t0)
 
-[条款17：以独立语句将newed对象置入智能指针](https://blog.csdn.net/kangroger/article/details/42717889#t0)
+✔[条款17：以独立语句将newed对象置入智能指针](https://blog.csdn.net/kangroger/article/details/42717889#t0)
 
 [条款18：让接口容易被正确使用，不容易被误用](https://blog.csdn.net/kangroger/article/details/42777713#t0)
 
